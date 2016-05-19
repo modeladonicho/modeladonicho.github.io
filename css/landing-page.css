@@ -38,7 +38,7 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg) no-repeat;
-    background-size: cover auto;
+    background-size: auto 100%;
     background-position: top center;
     background-attachment: fixed;
 
